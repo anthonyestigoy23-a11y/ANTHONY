@@ -1,0 +1,6 @@
+{
+  "name": "RoadResQ",
+  "description": "Roadside assistance and motorcycle repair service matching app with tracking, quick help, and maintenance booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
